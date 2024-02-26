@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Kiran</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h1 align="center">Hi 👋, I'm Kiran</h1> <h3 align="center">A passionate frontend developer from Nepal</h3>
 
 - 🔭 I’m currently working on [Freelancer](https://www.upwork.com/freelancers/~01ec239c56e63dc338)
 
-- 🌱 I’m currently learning **QA, Devops,**
+- 🌱 I’m currently learning **QA, DevOps,**
 
 - 👯 I’m looking to collaborate on [React](https://react.dev/)
 
-- 🤝 I’m looking for help with **React, TypeScript, Node, Express**
+- 🤝 I’m looking for help with **Native App Development**
 
 - 💬 Ask me about **javaScript, typeScript, React**
 
