@@ -40,8 +40,8 @@
 ## 📊 GitHub stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kirangautam45&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirangautam45&layout=compact&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirangautam45&theme=default" alt="GitHub stats"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kirangautam45&theme=default" alt="Top languages"/>
 </p>
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=kirangautam45&hide_border=true" alt="GitHub streak"/>
