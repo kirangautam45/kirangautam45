@@ -32,6 +32,13 @@
       <p><b>If it helps you learn or teach, a ⭐ is much appreciated!</b></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <h3><a href="https://github.com/kirangautam45/ai-engineering-course">🤖 AI Engineering — 45-Day Course (LLMs, Prompting & RAG)</a></h3>
+      <p>A free, class-paced course from your first LLM API call to a deployed RAG app: prompt engineering, tool calling, embeddings, vector search and evals, all in Node.js.</p>
+      <p><b>If it helps you learn or teach, a ⭐ is much appreciated!</b></p>
+    </td>
+  </tr>
 </table>
 
 ## 🛠️ Tech stack
