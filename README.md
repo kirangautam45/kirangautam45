@@ -17,7 +17,7 @@
 - 👯 Open to collaborating on **React** and **full-stack** projects
 - 📫 Reach me at **kirangautam225@gmail.com**
 
-## ⭐ Featured project
+## ⭐ Featured projects
 
 <table>
   <tr>
@@ -26,13 +26,18 @@
       <p>A free, class-paced curriculum from zero Node.js to a deployed full-stack MERN app: daily lesson plans, homework, and example projects (Notes API, Helpdesk API with JWT auth, React client).</p>
       <p><b>If it helps you learn or teach, a ⭐ is much appreciated!</b></p>
     </td>
+    <td>
+      <h3><a href="https://github.com/kirangautam45/core-php">🐘 Core PHP & MySQL — 45-Day Course</a></h3>
+      <p>A free beginner course with 20+ hands-on lessons, from Hello World to sessions, password hashing, PDO and full CRUD with MySQL.</p>
+      <p><b>If it helps you learn or teach, a ⭐ is much appreciated!</b></p>
+    </td>
   </tr>
 </table>
 
 ## 🛠️ Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,mongodb,postgres,mysql,tailwind,html,css" alt="Languages and frameworks"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,php,mongodb,postgres,mysql,tailwind,html,css" alt="Languages and frameworks"/>
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,azure,firebase,vercel,linux,postman,figma,jest,cypress" alt="Tools and platforms"/>
 </p>
